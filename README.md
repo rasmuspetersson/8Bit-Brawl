@@ -9,7 +9,7 @@ A 2D action platformer game made with Unity Engine.
 If you loose all of your 5 hearts you die and the game will automatically reset after a couple of seconds. Were you to beat the final boss and enter the castle you will start level 2 which does kinda not exist. So if you reach level to you have beaten the game. 
 
 ## Controls:
-### Movement
+### Movement:
   - Walk – Arrow Keys
   - Jump - Space
   - Throw – Left Control  
