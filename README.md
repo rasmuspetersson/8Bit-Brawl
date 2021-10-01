@@ -16,7 +16,7 @@ If you loose all of your 5 hearts you die and the game will automatically reset 
 ### Power ups:
   - Shot – Hold Left Control
 ### Abilities:
-  - Double jump – when activated, press jump twice
+  - Double jump – When activated, press jump twice
      
 
 ## Notes
@@ -26,9 +26,9 @@ If you loose all of your 5 hearts you die and the game will automatically reset 
 
 ## Credits 
 ### Sound:  
-  - The Weekend – Blinding Lights instrumental - Intro
+  - The Weeknd – Blinding Lights instrumental - Intro
   - Rainbowdragoneyes - The Frozen Light (Glacial Peak) - Level 1
-  - Tegan And Sara Everything is awesome 
+  - Tegan And Sara - Everything is awesome 
   - Rainbowdragoneyes - A Home Amongst The Clouds (Cloud Ruins) - Level 2
 
 ### Sprites used from: 
@@ -45,4 +45,4 @@ If you loose all of your 5 hearts you die and the game will automatically reset 
 
 ## Play
 
-If you havent already you can play the game here https://rasmuspetersson.github.io/8Bit-Brawl/index.html.
+If you haven't already you can play the game here https://rasmuspetersson.github.io/8Bit-Brawl/index.html.
