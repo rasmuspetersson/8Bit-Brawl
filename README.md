@@ -2,6 +2,8 @@
 
 A 2D action platformer game made with Unity Engine.
 
+![8Bit-Brawl](https://raw.githubusercontent.com/rasmuspetersson/rasmuspetersson.github.io/main/assets/images/8Bit-Brawl/8bit_1.jpg)
+
 ## Gameplay 
 
 8Bit Brawl was from the start suppose to be a Super Smash Bros kind of game where you choose a character from the 8-bit era and battle each other. Since this was gonna be a 2-4 month project I switched idea to a 2D action platformer instead. In it's essence it's basically a Mario game with a few extra pieces, the character have the ability to pick up weapons and throw them. There are more playable characters such as Simon Belmont from Castlevania but is currently not playable, these will later be unlocked or by entering a cheat code. The mission is to get from A to B and beat the boss.  
